@@ -42,6 +42,13 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </p>
 
 ### 🔥 &nbsp; My Stats :
+<div align="center">
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luongvilam123&theme=react&hide_border=false)](https://github.com/luongvilam123)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luongvilam123&layout=compact&theme=vision-friendly-dark)](https://github.com/luongvilam123/github-readme-stats)
+ -->
+<!--
+![github contribution grid snake animation](https://raw.githubusercontent.com/luongvilam123/luongvilam123/output/github-contribution-grid-snake.svg)
+-->
+<a href="https://github.com/luongvilam123"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luongvilam123&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=react" alt="Lama's github stats" /></a>
+  <a href="https://github.com/luongvilam123"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luongvilam123&layout=compact&hide_border=true&hide=css,html,handlebars&langs_count=10&theme=react" /></a>
+</div>
