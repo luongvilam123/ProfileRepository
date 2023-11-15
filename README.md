@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m working as a Full-Stack Web Developer and contributing to frontend and backend for building web applications at Hitachi Vantara.<br>I am a quick learner and someone who is pleasant to work with.<br>In my free time, I solve brain-stretching problems even though it takes me a long time to find the solution and reading books.<br>I also enjoy physical activities such as badminton and boxing.<br>
+- I’m working as a Full-Stack Web Developer and contributing to frontend and backend for building web applications at Hitachi Vantara.<br>- I am a quick learner and someone who is pleasant to work with.<br>- In my free time, I solve brain-stretching problems even though it takes me a long time to find the solution and reading books.<br>- I also enjoy physical activities such as badminton and boxing.<br>
 
 
 ## 🌐 Socials:
@@ -18,10 +18,5 @@ I’m working as a Full-Stack Web Developer and contributing to frontend and bac
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=luongvilam123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=luongvilam123&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=luongvilam123&icon=0&color=0)](https://visitcount.itsvg.in).
