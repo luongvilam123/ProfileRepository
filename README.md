@@ -1,5 +1,8 @@
 # 💫 About Me:
-- I’m working as a Full-Stack Web Developer and contributing to frontend and backend for building web applications at Hitachi Vantara.<br>- I am a quick learner and someone who is pleasant to work with.<br>- In my free time, I solve brain-stretching problems even though it takes me a long time to find the solution and reading books.<br>- I also enjoy physical activities such as badminton and boxing.<br>
+- I’m working as a Full-Stack Web Developer and contributing to frontend and backend for building web applications at Hitachi Vantara.
+- I am a quick learner and someone who is pleasant to work with.
+- In my free time, I solve brain-stretching problems even though it takes me a long time to find the solution and reading books.
+- I also enjoy physical activities such as badminton and boxing.
 
 
 ## 🌐 Socials:
